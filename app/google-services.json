@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "647197512166",
+    "firebase_url": "https://ubiscanner.firebaseio.com",
+    "project_id": "ubiscanner",
+    "storage_bucket": "ubiscanner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647197512166:android:1d77ba3263232dc2",
+        "android_client_info": {
+          "package_name": "cloud.andro.ubiscannerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647197512166-1i8j9b7gu3hfqdfo587m4aapckqflvqh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cloud.andro.ubiscannerapp",
+            "certificate_hash": "fae9a7ba244394d997973967f85793ea28cbb899"
+          }
+        },
+        {
+          "client_id": "647197512166-bd3dis4vahncb9kf8ra0btdvs5i7ehmr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3jnu9aqNshJr9QGFVdqMsuDGI-gACE4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647197512166-bd3dis4vahncb9kf8ra0btdvs5i7ehmr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
